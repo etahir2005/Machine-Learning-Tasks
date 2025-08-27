@@ -76,7 +76,7 @@ This repo demonstrates **end-to-end machine learning workflows**, including:
    - Click on the green **Code** button in this repo and select *Download ZIP*  
    - Or clone using Git:  
      ```bash
-     git clone https://github.com/your-username/Data-Science-Tasks.git
+     git clone https://github.com/your-username/Machine-Learning-Tasks.git
      ```  
 
 2. **Extract the files** to your working directory  
